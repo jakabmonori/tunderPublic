@@ -1,0 +1,115 @@
+.headerPics {
+    width: auto !important;
+    height: 50px !important;
+}
+
+.d-border {
+    border-color: rgba(134, 242, 96, 0.7);
+    border-style: double none double none;
+    border-width: 7px;
+}
+
+.nav-seperator {
+    border-right: 1px solid rgba(134, 242, 96, 0.7);
+}
+
+.p-5 {
+    padding-top: 5% !important;
+}
+
+.p-5px {
+    padding-top: 5px;
+}
+
+.p15 {
+    padding-top: 15px;
+}
+
+.p30 {
+    padding-top: 30px !important;
+}
+
+.p-side {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#desktopcar > .carousel-item  {
+    height: 750px;
+}
+
+.s-100 {
+    width: 100%;
+    height: 100%;
+}
+
+.carouselcap {
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 30px;
+}
+
+.idezet {
+    font-size: 20px;
+    color: rgb(254,153,176)
+}
+
+.szolgKepek p {
+    font-size: 30px;
+    color: rgb(0,0,0);
+    overflow: hidden;
+    -webkit-transition: color 0.4s;
+    transition: color 0.4s;
+}
+
+.szolgKepek img {
+    transition: transform .5s ease;
+}
+
+.szolgKepek:hover img {
+    transform: scale(1.07)
+}
+
+.szolgKepek p {
+    transition: transform .5s ease;
+}
+
+.szolgKepek:hover p {
+    color: rgb(254,153,176);
+    transform: scale(1.07);
+}
+
+.green-grad {
+    background-image: rgb(255,255,255);
+    background-image: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(134,242,96,0.7) 50%, rgba(255,255,255,0.577468487394958) 100%);
+}
+
+.bem-text1 {
+    font-size: 200% !important;
+  }
+  .bem-text2 {
+    font-size: 250% !important;
+  }
+  .bem-text3 {
+      font-size: 300% !important;
+  }  
+
+.backg-pink {
+    background-color: rgba(254,153,176,0.5) !important;
+}
+
+#footercont {
+    border-top: 1px solid rgba(128, 128, 128, 0.329);
+    background-color: rgba(134, 134, 134, 0.144);
+    padding-top: 10%;
+}
+
+#gallery {
+    overflow: scroll;
+    max-height: 300px !important;
+}
+
+
+
+
+
+
